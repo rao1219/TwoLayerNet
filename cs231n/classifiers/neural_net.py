@@ -126,6 +126,10 @@ class TwoLayerNet(object):
 
     dlayer3 /=N
     dlayer3 *= dlayer4
+   
+    dlayer2 = dlayer3.dot(W2.T)
+
+    dlayer1 = dlayer2 * (layer1>=0)
 
     dlayer2 = dlayer3.dot(W2.T)
     

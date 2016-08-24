@@ -44,3 +44,10 @@ correct_scores = np.asarray([
 print correct_scores
 print 'Difference between your scores and correct scores:'
 print np.sum(np.abs(scores - correct_scores))
+
+loss , _ = net.loss(X, y, reg = 0.1)
+correct_loss = 1.30378789133
+
+print 'Difference between your loss and correct loss:'
+print np.sum(np.abs(loss - correct_loss))
+
