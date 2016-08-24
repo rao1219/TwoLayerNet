@@ -32,6 +32,8 @@ net = init_toy_model()
 X , y = init_toy_data()
 
 scores = net.loss(X)
+print '------------------------------'
+print '+ Forward scores:'
 print 'Your scores:', scores
 print 'correct scores:'
 correct_scores = np.asarray([
@@ -45,9 +47,11 @@ print correct_scores
 print 'Difference between your scores and correct scores:'
 print np.sum(np.abs(scores - correct_scores))
 
+print '------------------------------'
+print '+ Forward loss:'
 loss , _ = net.loss(X, y, reg = 0.1)
 correct_loss = 1.30378789133
-
+print 'your loss:',loss, '\n','correct loss:', correct_loss
 print 'Difference between your loss and correct loss:'
 print np.sum(np.abs(loss - correct_loss))
 

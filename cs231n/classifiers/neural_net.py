@@ -192,6 +192,10 @@ class TwoLayerNet(object):
       # them in X_batch and y_batch respectively.                             #
       #########################################################################
       pass
+      batch_mask = np.random.choice(num_train,batch_size)
+      X_batch = X[:,batch_mask]   
+      y_batch = y[batch_mask]
+
       #########################################################################
       #                             END OF YOUR CODE                          #
       #########################################################################
@@ -207,6 +211,10 @@ class TwoLayerNet(object):
       # stored in the grads dictionary defined above.                         #
       #########################################################################
       pass
+      step = -learning_rate * grads
+      self.W1 += step
+      self.W2 += step 
+
       #########################################################################
       #                             END OF YOUR CODE                          #
       #########################################################################
