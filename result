@@ -1,0 +1,1310 @@
+Train data shape:  (49000, 3072)
+Train labels shape:  (49000,)
+Validation data shape:  (1000, 3072)
+Validation labels shape:  (1000,)
+Test data shape:  (1000, 3072)
+Test labels shape:  (1000,)
+iteration 0 / 1000: loss 2.302977
+iteration 100 / 1000: loss 2.302502
+iteration 200 / 1000: loss 2.298545
+iteration 300 / 1000: loss 2.256883
+iteration 400 / 1000: loss 2.195786
+iteration 500 / 1000: loss 2.138434
+iteration 600 / 1000: loss 2.125132
+iteration 700 / 1000: loss 2.017860
+iteration 800 / 1000: loss 1.959277
+iteration 900 / 1000: loss 2.020999
+Validation accuracy:  0.286
+Train data shape:  (49000, 3072)
+Train labels shape:  (49000,)
+Validation data shape:  (1000, 3072)
+Validation labels shape:  (1000,)
+Test data shape:  (1000, 3072)
+Test labels shape:  (1000,)
+--------------------------
++ Train  1 :
+iteration 0 / 1000: loss 2.302985
+iteration 100 / 1000: loss 2.302539
+iteration 200 / 1000: loss 2.298283
+iteration 300 / 1000: loss 2.259950
+iteration 400 / 1000: loss 2.211536
+iteration 500 / 1000: loss 2.101606
+iteration 600 / 1000: loss 2.019778
+iteration 700 / 1000: loss 2.086915
+iteration 800 / 1000: loss 1.991291
+iteration 900 / 1000: loss 2.016104
+Validation accuracy:  0.278
+--------------------------
++ Train  2 :
+iteration 0 / 1000: loss 1.942943
+iteration 100 / 1000: loss 1.932819
+iteration 200 / 1000: loss 1.897397
+iteration 300 / 1000: loss 1.841484
+iteration 400 / 1000: loss 1.829987
+iteration 500 / 1000: loss 1.787789
+iteration 600 / 1000: loss 1.779278
+iteration 700 / 1000: loss 1.791424
+iteration 800 / 1000: loss 1.760188
+iteration 900 / 1000: loss 1.754879
+Validation accuracy:  0.376
+--------------------------
++ Train  3 :
+iteration 0 / 1000: loss 1.822068
+iteration 100 / 1000: loss 1.984934
+iteration 200 / 1000: loss 1.689609
+iteration 300 / 1000: loss 1.634145
+iteration 400 / 1000: loss 1.729270
+iteration 500 / 1000: loss 1.843428
+iteration 600 / 1000: loss 1.734304
+iteration 700 / 1000: loss 1.733411
+iteration 800 / 1000: loss 1.386511
+iteration 900 / 1000: loss 1.646395
+Validation accuracy:  0.404
+--------------------------
++ Train  4 :
+iteration 0 / 1000: loss 1.735102
+iteration 100 / 1000: loss 1.715324
+iteration 200 / 1000: loss 1.738270
+iteration 300 / 1000: loss 1.817042
+iteration 400 / 1000: loss 1.734050
+iteration 500 / 1000: loss 1.637281
+iteration 600 / 1000: loss 1.598625
+iteration 700 / 1000: loss 1.596647
+iteration 800 / 1000: loss 1.688052
+iteration 900 / 1000: loss 1.520990
+Validation accuracy:  0.447
+--------------------------
++ Train  5 :
+iteration 0 / 1000: loss 1.699479
+iteration 100 / 1000: loss 1.638702
+iteration 200 / 1000: loss 1.524112
+iteration 300 / 1000: loss 1.600221
+iteration 400 / 1000: loss 1.706212
+iteration 500 / 1000: loss 1.570387
+iteration 600 / 1000: loss 1.569064
+iteration 700 / 1000: loss 1.653184
+iteration 800 / 1000: loss 1.566339
+iteration 900 / 1000: loss 1.630529
+Validation accuracy:  0.454
+--------------------------
++ Train  6 :
+iteration 0 / 1000: loss 1.520619
+iteration 100 / 1000: loss 1.615904
+iteration 200 / 1000: loss 1.662712
+iteration 300 / 1000: loss 1.661167
+iteration 400 / 1000: loss 1.619185
+iteration 500 / 1000: loss 1.499055
+iteration 600 / 1000: loss 1.633954
+iteration 700 / 1000: loss 1.530010
+iteration 800 / 1000: loss 1.490783
+iteration 900 / 1000: loss 1.507909
+Validation accuracy:  0.461
+--------------------------
++ Train  7 :
+iteration 0 / 1000: loss 1.567634
+iteration 100 / 1000: loss 1.519189
+iteration 200 / 1000: loss 1.557201
+iteration 300 / 1000: loss 1.457832
+iteration 400 / 1000: loss 1.529030
+iteration 500 / 1000: loss 1.682692
+iteration 600 / 1000: loss 1.548623
+iteration 700 / 1000: loss 1.545647
+iteration 800 / 1000: loss 1.671916
+iteration 900 / 1000: loss 1.582676
+Validation accuracy:  0.468
+--------------------------
++ Train  8 :
+iteration 0 / 1000: loss 1.446935
+iteration 100 / 1000: loss 1.543929
+iteration 200 / 1000: loss 1.579509
+iteration 300 / 1000: loss 1.587151
+iteration 400 / 1000: loss 1.497903
+iteration 500 / 1000: loss 1.574881
+iteration 600 / 1000: loss 1.514403
+iteration 700 / 1000: loss 1.522541
+iteration 800 / 1000: loss 1.504009
+iteration 900 / 1000: loss 1.403426
+Validation accuracy:  0.478
+--------------------------
++ Train  9 :
+iteration 0 / 1000: loss 1.588660
+iteration 100 / 1000: loss 1.382986
+iteration 200 / 1000: loss 1.425430
+iteration 300 / 1000: loss 1.537700
+iteration 400 / 1000: loss 1.450465
+iteration 500 / 1000: loss 1.460619
+iteration 600 / 1000: loss 1.504401
+iteration 700 / 1000: loss 1.456650
+iteration 800 / 1000: loss 1.411646
+iteration 900 / 1000: loss 1.511176
+Validation accuracy:  0.481
+--------------------------
++ Train  10 :
+iteration 0 / 1000: loss 1.577443
+iteration 100 / 1000: loss 1.528758
+iteration 200 / 1000: loss 1.416535
+iteration 300 / 1000: loss 1.400515
+iteration 400 / 1000: loss 1.400127
+iteration 500 / 1000: loss 1.455543
+iteration 600 / 1000: loss 1.555524
+iteration 700 / 1000: loss 1.520152
+iteration 800 / 1000: loss 1.500318
+iteration 900 / 1000: loss 1.431370
+Validation accuracy:  0.496
+--------------------------
++ Train  11 :
+iteration 0 / 1000: loss 1.490220
+iteration 100 / 1000: loss 1.468382
+iteration 200 / 1000: loss 1.297972
+iteration 300 / 1000: loss 1.443587
+iteration 400 / 1000: loss 1.491471
+iteration 500 / 1000: loss 1.503585
+iteration 600 / 1000: loss 1.344043
+iteration 700 / 1000: loss 1.493559
+iteration 800 / 1000: loss 1.467983
+iteration 900 / 1000: loss 1.507835
+Validation accuracy:  0.503
+--------------------------
++ Train  12 :
+iteration 0 / 1000: loss 1.371499
+iteration 100 / 1000: loss 1.431676
+iteration 200 / 1000: loss 1.543038
+iteration 300 / 1000: loss 1.455842
+iteration 400 / 1000: loss 1.329383
+iteration 500 / 1000: loss 1.448215
+iteration 600 / 1000: loss 1.339747
+iteration 700 / 1000: loss 1.422203
+iteration 800 / 1000: loss 1.320874
+iteration 900 / 1000: loss 1.480865
+Validation accuracy:  0.501
+--------------------------
++ Train  13 :
+iteration 0 / 1000: loss 1.402958
+iteration 100 / 1000: loss 1.397622
+iteration 200 / 1000: loss 1.539831
+iteration 300 / 1000: loss 1.473661
+iteration 400 / 1000: loss 1.346171
+iteration 500 / 1000: loss 1.340114
+iteration 600 / 1000: loss 1.458178
+iteration 700 / 1000: loss 1.428362
+iteration 800 / 1000: loss 1.438471
+iteration 900 / 1000: loss 1.459308
+Validation accuracy:  0.502
+--------------------------
++ Train  14 :
+iteration 0 / 1000: loss 1.488794
+iteration 100 / 1000: loss 1.453561
+iteration 200 / 1000: loss 1.474587
+iteration 300 / 1000: loss 1.454925
+iteration 400 / 1000: loss 1.441840
+iteration 500 / 1000: loss 1.423559
+iteration 600 / 1000: loss 1.287064
+iteration 700 / 1000: loss 1.450156
+iteration 800 / 1000: loss 1.444111
+iteration 900 / 1000: loss 1.462522
+Validation accuracy:  0.501
+--------------------------
++ Train  15 :
+iteration 0 / 1000: loss 1.477182
+iteration 100 / 1000: loss 1.391471
+iteration 200 / 1000: loss 1.421839
+iteration 300 / 1000: loss 1.372912
+iteration 400 / 1000: loss 1.560332
+iteration 500 / 1000: loss 1.359820
+iteration 600 / 1000: loss 1.333969
+iteration 700 / 1000: loss 1.300759
+iteration 800 / 1000: loss 1.515305
+iteration 900 / 1000: loss 1.476687
+Validation accuracy:  0.5
+--------------------------
++ Train  16 :
+iteration 0 / 1000: loss 1.347643
+iteration 100 / 1000: loss 1.388435
+iteration 200 / 1000: loss 1.453255
+iteration 300 / 1000: loss 1.567517
+iteration 400 / 1000: loss 1.376724
+iteration 500 / 1000: loss 1.331218
+iteration 600 / 1000: loss 1.449413
+iteration 700 / 1000: loss 1.521717
+iteration 800 / 1000: loss 1.403019
+iteration 900 / 1000: loss 1.281904
+Validation accuracy:  0.514
+--------------------------
++ Train  17 :
+iteration 0 / 1000: loss 1.294031
+iteration 100 / 1000: loss 1.301891
+iteration 200 / 1000: loss 1.419370
+iteration 300 / 1000: loss 1.331155
+iteration 400 / 1000: loss 1.508974
+iteration 500 / 1000: loss 1.356415
+iteration 600 / 1000: loss 1.349823
+iteration 700 / 1000: loss 1.410215
+iteration 800 / 1000: loss 1.331249
+iteration 900 / 1000: loss 1.362889
+Validation accuracy:  0.514
+--------------------------
++ Train  18 :
+iteration 0 / 1000: loss 1.357750
+iteration 100 / 1000: loss 1.471235
+iteration 200 / 1000: loss 1.432381
+iteration 300 / 1000: loss 1.359068
+iteration 400 / 1000: loss 1.370698
+iteration 500 / 1000: loss 1.376416
+iteration 600 / 1000: loss 1.491868
+iteration 700 / 1000: loss 1.445618
+iteration 800 / 1000: loss 1.271033
+iteration 900 / 1000: loss 1.508256
+Validation accuracy:  0.524
+--------------------------
++ Train  19 :
+iteration 0 / 1000: loss 1.362613
+iteration 100 / 1000: loss 1.322392
+iteration 200 / 1000: loss 1.386799
+iteration 300 / 1000: loss 1.374208
+iteration 400 / 1000: loss 1.458798
+iteration 500 / 1000: loss 1.448519
+iteration 600 / 1000: loss 1.403145
+iteration 700 / 1000: loss 1.329298
+iteration 800 / 1000: loss 1.367178
+iteration 900 / 1000: loss 1.492937
+Validation accuracy:  0.521
+--------------------------
++ Train  20 :
+iteration 0 / 1000: loss 1.344708
+iteration 100 / 1000: loss 1.371910
+iteration 200 / 1000: loss 1.438526
+iteration 300 / 1000: loss 1.422798
+iteration 400 / 1000: loss 1.345724
+iteration 500 / 1000: loss 1.415933
+iteration 600 / 1000: loss 1.364801
+iteration 700 / 1000: loss 1.418480
+iteration 800 / 1000: loss 1.314718
+iteration 900 / 1000: loss 1.407564
+Validation accuracy:  0.519
+--------------------------
++ Train  21 :
+iteration 0 / 1000: loss 1.465691
+iteration 100 / 1000: loss 1.289681
+iteration 200 / 1000: loss 1.313564
+iteration 300 / 1000: loss 1.299239
+iteration 400 / 1000: loss 1.325301
+iteration 500 / 1000: loss 1.350491
+iteration 600 / 1000: loss 1.407458
+iteration 700 / 1000: loss 1.304682
+iteration 800 / 1000: loss 1.296776
+iteration 900 / 1000: loss 1.366330
+Validation accuracy:  0.52
+--------------------------
++ Train  22 :
+iteration 0 / 1000: loss 1.462905
+iteration 100 / 1000: loss 1.437957
+iteration 200 / 1000: loss 1.257614
+iteration 300 / 1000: loss 1.229086
+iteration 400 / 1000: loss 1.311447
+iteration 500 / 1000: loss 1.316037
+iteration 600 / 1000: loss 1.404957
+iteration 700 / 1000: loss 1.397820
+iteration 800 / 1000: loss 1.332520
+iteration 900 / 1000: loss 1.411745
+Validation accuracy:  0.516
+--------------------------
++ Train  23 :
+iteration 0 / 1000: loss 1.430720
+iteration 100 / 1000: loss 1.477267
+iteration 200 / 1000: loss 1.339477
+iteration 300 / 1000: loss 1.220033
+iteration 400 / 1000: loss 1.447715
+iteration 500 / 1000: loss 1.352003
+iteration 600 / 1000: loss 1.252869
+iteration 700 / 1000: loss 1.386551
+iteration 800 / 1000: loss 1.502245
+iteration 900 / 1000: loss 1.372718
+Validation accuracy:  0.522
+--------------------------
++ Train  24 :
+iteration 0 / 1000: loss 1.356598
+iteration 100 / 1000: loss 1.297228
+iteration 200 / 1000: loss 1.386346
+iteration 300 / 1000: loss 1.287248
+iteration 400 / 1000: loss 1.314939
+iteration 500 / 1000: loss 1.140354
+iteration 600 / 1000: loss 1.321220
+iteration 700 / 1000: loss 1.298449
+iteration 800 / 1000: loss 1.338832
+iteration 900 / 1000: loss 1.363569
+Validation accuracy:  0.529
+--------------------------
++ Train  25 :
+iteration 0 / 1000: loss 1.298656
+iteration 100 / 1000: loss 1.389684
+iteration 200 / 1000: loss 1.322911
+iteration 300 / 1000: loss 1.296258
+iteration 400 / 1000: loss 1.389398
+iteration 500 / 1000: loss 1.325882
+iteration 600 / 1000: loss 1.255469
+iteration 700 / 1000: loss 1.376798
+iteration 800 / 1000: loss 1.387997
+iteration 900 / 1000: loss 1.299385
+Validation accuracy:  0.524
+--------------------------
++ Train  26 :
+iteration 0 / 1000: loss 1.297270
+iteration 100 / 1000: loss 1.325179
+iteration 200 / 1000: loss 1.257679
+iteration 300 / 1000: loss 1.416461
+iteration 400 / 1000: loss 1.368447
+iteration 500 / 1000: loss 1.319849
+iteration 600 / 1000: loss 1.187179
+iteration 700 / 1000: loss 1.377350
+iteration 800 / 1000: loss 1.387057
+iteration 900 / 1000: loss 1.403169
+Validation accuracy:  0.531
+--------------------------
++ Train  27 :
+iteration 0 / 1000: loss 1.279175
+iteration 100 / 1000: loss 1.341809
+iteration 200 / 1000: loss 1.223954
+iteration 300 / 1000: loss 1.237796
+iteration 400 / 1000: loss 1.314164
+iteration 500 / 1000: loss 1.340655
+iteration 600 / 1000: loss 1.338624
+iteration 700 / 1000: loss 1.207541
+iteration 800 / 1000: loss 1.301741
+iteration 900 / 1000: loss 1.292595
+Validation accuracy:  0.53
+--------------------------
++ Train  28 :
+iteration 0 / 1000: loss 1.292969
+iteration 100 / 1000: loss 1.276648
+iteration 200 / 1000: loss 1.339644
+iteration 300 / 1000: loss 1.384552
+iteration 400 / 1000: loss 1.283838
+iteration 500 / 1000: loss 1.378021
+iteration 600 / 1000: loss 1.309418
+iteration 700 / 1000: loss 1.323045
+iteration 800 / 1000: loss 1.369862
+iteration 900 / 1000: loss 1.324913
+Validation accuracy:  0.534
+--------------------------
++ Train  29 :
+iteration 0 / 1000: loss 1.316601
+iteration 100 / 1000: loss 1.367994
+iteration 200 / 1000: loss 1.340130
+iteration 300 / 1000: loss 1.285260
+iteration 400 / 1000: loss 1.344321
+iteration 500 / 1000: loss 1.271590
+iteration 600 / 1000: loss 1.402468
+iteration 700 / 1000: loss 1.314925
+iteration 800 / 1000: loss 1.298563
+iteration 900 / 1000: loss 1.236003
+Validation accuracy:  0.532
+--------------------------
++ Train  30 :
+iteration 0 / 1000: loss 1.318005
+iteration 100 / 1000: loss 1.226198
+iteration 200 / 1000: loss 1.279148
+iteration 300 / 1000: loss 1.294964
+iteration 400 / 1000: loss 1.469009
+iteration 500 / 1000: loss 1.327750
+iteration 600 / 1000: loss 1.447593
+iteration 700 / 1000: loss 1.199496
+iteration 800 / 1000: loss 1.326749
+iteration 900 / 1000: loss 1.331007
+Validation accuracy:  0.522
+--------------------------
++ Train  31 :
+iteration 0 / 1000: loss 1.353352
+iteration 100 / 1000: loss 1.303253
+iteration 200 / 1000: loss 1.294569
+iteration 300 / 1000: loss 1.360178
+iteration 400 / 1000: loss 1.418388
+iteration 500 / 1000: loss 1.525442
+iteration 600 / 1000: loss 1.290852
+iteration 700 / 1000: loss 1.317347
+iteration 800 / 1000: loss 1.373802
+iteration 900 / 1000: loss 1.212864
+Validation accuracy:  0.532
+--------------------------
++ Train  32 :
+iteration 0 / 1000: loss 1.201530
+iteration 100 / 1000: loss 1.446062
+iteration 200 / 1000: loss 1.311824
+iteration 300 / 1000: loss 1.363537
+iteration 400 / 1000: loss 1.354554
+iteration 500 / 1000: loss 1.344973
+iteration 600 / 1000: loss 1.328207
+iteration 700 / 1000: loss 1.322596
+iteration 800 / 1000: loss 1.316697
+iteration 900 / 1000: loss 1.333717
+Validation accuracy:  0.527
+--------------------------
++ Train  33 :
+iteration 0 / 1000: loss 1.266720
+iteration 100 / 1000: loss 1.265119
+iteration 200 / 1000: loss 1.354253
+iteration 300 / 1000: loss 1.209322
+iteration 400 / 1000: loss 1.344966
+iteration 500 / 1000: loss 1.203244
+iteration 600 / 1000: loss 1.361733
+iteration 700 / 1000: loss 1.305307
+iteration 800 / 1000: loss 1.259206
+iteration 900 / 1000: loss 1.339039
+Validation accuracy:  0.533
+--------------------------
++ Train  34 :
+iteration 0 / 1000: loss 1.291023
+iteration 100 / 1000: loss 1.310333
+iteration 200 / 1000: loss 1.415352
+iteration 300 / 1000: loss 1.401427
+iteration 400 / 1000: loss 1.480351
+iteration 500 / 1000: loss 1.376122
+iteration 600 / 1000: loss 1.357423
+iteration 700 / 1000: loss 1.284395
+iteration 800 / 1000: loss 1.259440
+iteration 900 / 1000: loss 1.287062
+Validation accuracy:  0.534
+--------------------------
++ Train  35 :
+iteration 0 / 1000: loss 1.208539
+iteration 100 / 1000: loss 1.286293
+iteration 200 / 1000: loss 1.247576
+iteration 300 / 1000: loss 1.270711
+iteration 400 / 1000: loss 1.270228
+iteration 500 / 1000: loss 1.216559
+iteration 600 / 1000: loss 1.321680
+iteration 700 / 1000: loss 1.208348
+iteration 800 / 1000: loss 1.371235
+iteration 900 / 1000: loss 1.336656
+Validation accuracy:  0.526
+--------------------------
++ Train  36 :
+iteration 0 / 1000: loss 1.357085
+iteration 100 / 1000: loss 1.318546
+iteration 200 / 1000: loss 1.365515
+iteration 300 / 1000: loss 1.405682
+iteration 400 / 1000: loss 1.171134
+iteration 500 / 1000: loss 1.441971
+iteration 600 / 1000: loss 1.281823
+iteration 700 / 1000: loss 1.315532
+iteration 800 / 1000: loss 1.286772
+iteration 900 / 1000: loss 1.302377
+Validation accuracy:  0.533
+--------------------------
++ Train  37 :
+iteration 0 / 1000: loss 1.293451
+iteration 100 / 1000: loss 1.372330
+iteration 200 / 1000: loss 1.320012
+iteration 300 / 1000: loss 1.344491
+iteration 400 / 1000: loss 1.183838
+iteration 500 / 1000: loss 1.337969
+iteration 600 / 1000: loss 1.380160
+iteration 700 / 1000: loss 1.335319
+iteration 800 / 1000: loss 1.309912
+iteration 900 / 1000: loss 1.190096
+Validation accuracy:  0.53
+--------------------------
++ Train  38 :
+iteration 0 / 1000: loss 1.357013
+iteration 100 / 1000: loss 1.212906
+iteration 200 / 1000: loss 1.237598
+iteration 300 / 1000: loss 1.343436
+iteration 400 / 1000: loss 1.367482
+iteration 500 / 1000: loss 1.257106
+iteration 600 / 1000: loss 1.425194
+iteration 700 / 1000: loss 1.430411
+iteration 800 / 1000: loss 1.149096
+iteration 900 / 1000: loss 1.283953
+Validation accuracy:  0.518
+--------------------------
++ Train  39 :
+iteration 0 / 1000: loss 1.388763
+iteration 100 / 1000: loss 1.266756
+iteration 200 / 1000: loss 1.337600
+iteration 300 / 1000: loss 1.266029
+iteration 400 / 1000: loss 1.306693
+iteration 500 / 1000: loss 1.306442
+iteration 600 / 1000: loss 1.259841
+iteration 700 / 1000: loss 1.281317
+iteration 800 / 1000: loss 1.364152
+iteration 900 / 1000: loss 1.325312
+Validation accuracy:  0.528
+--------------------------
++ Train  40 :
+iteration 0 / 1000: loss 1.341774
+iteration 100 / 1000: loss 1.291865
+iteration 200 / 1000: loss 1.266106
+iteration 300 / 1000: loss 1.362384
+iteration 400 / 1000: loss 1.363189
+iteration 500 / 1000: loss 1.139213
+iteration 600 / 1000: loss 1.271643
+iteration 700 / 1000: loss 1.317243
+iteration 800 / 1000: loss 1.270155
+iteration 900 / 1000: loss 1.362002
+Validation accuracy:  0.541
+--------------------------
++ Train  41 :
+iteration 0 / 1000: loss 1.292794
+iteration 100 / 1000: loss 1.354290
+iteration 200 / 1000: loss 1.304653
+iteration 300 / 1000: loss 1.370658
+iteration 400 / 1000: loss 1.361449
+iteration 500 / 1000: loss 1.406667
+iteration 600 / 1000: loss 1.326643
+iteration 700 / 1000: loss 1.417401
+iteration 800 / 1000: loss 1.228654
+iteration 900 / 1000: loss 1.287500
+Validation accuracy:  0.527
+--------------------------
++ Train  42 :
+iteration 0 / 1000: loss 1.287580
+iteration 100 / 1000: loss 1.190423
+iteration 200 / 1000: loss 1.351319
+iteration 300 / 1000: loss 1.183646
+iteration 400 / 1000: loss 1.325031
+iteration 500 / 1000: loss 1.437239
+iteration 600 / 1000: loss 1.335511
+iteration 700 / 1000: loss 1.350545
+iteration 800 / 1000: loss 1.298648
+iteration 900 / 1000: loss 1.178159
+Validation accuracy:  0.528
+--------------------------
++ Train  43 :
+iteration 0 / 1000: loss 1.399560
+iteration 100 / 1000: loss 1.312627
+iteration 200 / 1000: loss 1.300212
+iteration 300 / 1000: loss 1.319796
+iteration 400 / 1000: loss 1.359010
+iteration 500 / 1000: loss 1.288612
+iteration 600 / 1000: loss 1.341039
+iteration 700 / 1000: loss 1.320214
+iteration 800 / 1000: loss 1.225766
+iteration 900 / 1000: loss 1.350542
+Validation accuracy:  0.531
+--------------------------
++ Train  44 :
+iteration 0 / 1000: loss 1.347575
+iteration 100 / 1000: loss 1.307503
+iteration 200 / 1000: loss 1.390293
+iteration 300 / 1000: loss 1.339258
+iteration 400 / 1000: loss 1.281830
+iteration 500 / 1000: loss 1.350139
+iteration 600 / 1000: loss 1.297893
+iteration 700 / 1000: loss 1.249154
+iteration 800 / 1000: loss 1.300127
+iteration 900 / 1000: loss 1.250999
+Validation accuracy:  0.536
+--------------------------
++ Train  45 :
+iteration 0 / 1000: loss 1.359401
+iteration 100 / 1000: loss 1.372667
+iteration 200 / 1000: loss 1.227249
+iteration 300 / 1000: loss 1.350436
+iteration 400 / 1000: loss 1.256780
+iteration 500 / 1000: loss 1.378906
+iteration 600 / 1000: loss 1.363017
+iteration 700 / 1000: loss 1.189992
+iteration 800 / 1000: loss 1.321674
+iteration 900 / 1000: loss 1.429860
+Validation accuracy:  0.535
+--------------------------
++ Train  46 :
+iteration 0 / 1000: loss 1.330776
+iteration 100 / 1000: loss 1.388323
+iteration 200 / 1000: loss 1.318253
+iteration 300 / 1000: loss 1.271044
+iteration 400 / 1000: loss 1.166296
+iteration 500 / 1000: loss 1.309774
+iteration 600 / 1000: loss 1.405935
+iteration 700 / 1000: loss 1.368543
+iteration 800 / 1000: loss 1.363789
+iteration 900 / 1000: loss 1.289600
+Validation accuracy:  0.526
+--------------------------
++ Train  47 :
+iteration 0 / 1000: loss 1.357601
+iteration 100 / 1000: loss 1.332901
+iteration 200 / 1000: loss 1.213105
+iteration 300 / 1000: loss 1.274634
+iteration 400 / 1000: loss 1.207067
+iteration 500 / 1000: loss 1.300840
+iteration 600 / 1000: loss 1.347949
+iteration 700 / 1000: loss 1.330419
+iteration 800 / 1000: loss 1.202102
+iteration 900 / 1000: loss 1.277773
+Validation accuracy:  0.528
+--------------------------
++ Train  48 :
+iteration 0 / 1000: loss 1.370489
+iteration 100 / 1000: loss 1.290596
+iteration 200 / 1000: loss 1.268118
+iteration 300 / 1000: loss 1.267155
+iteration 400 / 1000: loss 1.409387
+iteration 500 / 1000: loss 1.270273
+iteration 600 / 1000: loss 1.225744
+iteration 700 / 1000: loss 1.379934
+iteration 800 / 1000: loss 1.303519
+iteration 900 / 1000: loss 1.271708
+Validation accuracy:  0.533
+--------------------------
++ Train  49 :
+iteration 0 / 1000: loss 1.329576
+iteration 100 / 1000: loss 1.218559
+iteration 200 / 1000: loss 1.265391
+iteration 300 / 1000: loss 1.372132
+iteration 400 / 1000: loss 1.339584
+iteration 500 / 1000: loss 1.167288
+iteration 600 / 1000: loss 1.246897
+iteration 700 / 1000: loss 1.280676
+iteration 800 / 1000: loss 1.395165
+iteration 900 / 1000: loss 1.312726
+Validation accuracy:  0.535
+--------------------------
++ Train  50 :
+iteration 0 / 1000: loss 1.313142
+iteration 100 / 1000: loss 1.274402
+iteration 200 / 1000: loss 1.377160
+iteration 300 / 1000: loss 1.413430
+iteration 400 / 1000: loss 1.274308
+iteration 500 / 1000: loss 1.311420
+iteration 600 / 1000: loss 1.229317
+iteration 700 / 1000: loss 1.262565
+iteration 800 / 1000: loss 1.242191
+iteration 900 / 1000: loss 1.321735
+Validation accuracy:  0.52
+--------------------------
++ Train  51 :
+iteration 0 / 1000: loss 1.307955
+iteration 100 / 1000: loss 1.239808
+iteration 200 / 1000: loss 1.306036
+iteration 300 / 1000: loss 1.264773
+iteration 400 / 1000: loss 1.295999
+iteration 500 / 1000: loss 1.182849
+iteration 600 / 1000: loss 1.250126
+iteration 700 / 1000: loss 1.303397
+iteration 800 / 1000: loss 1.324745
+iteration 900 / 1000: loss 1.286573
+Validation accuracy:  0.524
+--------------------------
++ Train  52 :
+iteration 0 / 1000: loss 1.339553
+iteration 100 / 1000: loss 1.297668
+iteration 200 / 1000: loss 1.405848
+iteration 300 / 1000: loss 1.169585
+iteration 400 / 1000: loss 1.443240
+iteration 500 / 1000: loss 1.413036
+iteration 600 / 1000: loss 1.273745
+iteration 700 / 1000: loss 1.332405
+iteration 800 / 1000: loss 1.410915
+iteration 900 / 1000: loss 1.298731
+Validation accuracy:  0.529
+--------------------------
++ Train  53 :
+iteration 0 / 1000: loss 1.276215
+iteration 100 / 1000: loss 1.212852
+iteration 200 / 1000: loss 1.291062
+iteration 300 / 1000: loss 1.250478
+iteration 400 / 1000: loss 1.256900
+iteration 500 / 1000: loss 1.230775
+iteration 600 / 1000: loss 1.348369
+iteration 700 / 1000: loss 1.279560
+iteration 800 / 1000: loss 1.361665
+iteration 900 / 1000: loss 1.284679
+Validation accuracy:  0.529
+--------------------------
++ Train  54 :
+iteration 0 / 1000: loss 1.184532
+iteration 100 / 1000: loss 1.262580
+iteration 200 / 1000: loss 1.252650
+iteration 300 / 1000: loss 1.425084
+iteration 400 / 1000: loss 1.341429
+iteration 500 / 1000: loss 1.225954
+iteration 600 / 1000: loss 1.276756
+iteration 700 / 1000: loss 1.288299
+iteration 800 / 1000: loss 1.206058
+iteration 900 / 1000: loss 1.349635
+Validation accuracy:  0.528
+--------------------------
++ Train  55 :
+iteration 0 / 1000: loss 1.368663
+iteration 100 / 1000: loss 1.213122
+iteration 200 / 1000: loss 1.377360
+iteration 300 / 1000: loss 1.362828
+iteration 400 / 1000: loss 1.420582
+iteration 500 / 1000: loss 1.255560
+iteration 600 / 1000: loss 1.398498
+iteration 700 / 1000: loss 1.343991
+iteration 800 / 1000: loss 1.397071
+iteration 900 / 1000: loss 1.416662
+Validation accuracy:  0.524
+--------------------------
++ Train  56 :
+iteration 0 / 1000: loss 1.276443
+iteration 100 / 1000: loss 1.350401
+iteration 200 / 1000: loss 1.349644
+iteration 300 / 1000: loss 1.346795
+iteration 400 / 1000: loss 1.260698
+iteration 500 / 1000: loss 1.289057
+iteration 600 / 1000: loss 1.426211
+iteration 700 / 1000: loss 1.335088
+iteration 800 / 1000: loss 1.270275
+iteration 900 / 1000: loss 1.307884
+Validation accuracy:  0.525
+--------------------------
++ Train  57 :
+iteration 0 / 1000: loss 1.426766
+iteration 100 / 1000: loss 1.251834
+iteration 200 / 1000: loss 1.326981
+iteration 300 / 1000: loss 1.343383
+iteration 400 / 1000: loss 1.211181
+iteration 500 / 1000: loss 1.303643
+iteration 600 / 1000: loss 1.305435
+iteration 700 / 1000: loss 1.279612
+iteration 800 / 1000: loss 1.359018
+iteration 900 / 1000: loss 1.354745
+Validation accuracy:  0.529
+--------------------------
++ Train  58 :
+iteration 0 / 1000: loss 1.314477
+iteration 100 / 1000: loss 1.325875
+iteration 200 / 1000: loss 1.363751
+iteration 300 / 1000: loss 1.380095
+iteration 400 / 1000: loss 1.382377
+iteration 500 / 1000: loss 1.272315
+iteration 600 / 1000: loss 1.269036
+iteration 700 / 1000: loss 1.372215
+iteration 800 / 1000: loss 1.383233
+iteration 900 / 1000: loss 1.328727
+Validation accuracy:  0.541
+--------------------------
++ Train  59 :
+iteration 0 / 1000: loss 1.354695
+iteration 100 / 1000: loss 1.304606
+iteration 200 / 1000: loss 1.395202
+iteration 300 / 1000: loss 1.410610
+iteration 400 / 1000: loss 1.292008
+iteration 500 / 1000: loss 1.201861
+iteration 600 / 1000: loss 1.256492
+iteration 700 / 1000: loss 1.289626
+iteration 800 / 1000: loss 1.294337
+iteration 900 / 1000: loss 1.306992
+Validation accuracy:  0.524
+--------------------------
++ Train  60 :
+iteration 0 / 1000: loss 1.337437
+iteration 100 / 1000: loss 1.168119
+iteration 200 / 1000: loss 1.368317
+iteration 300 / 1000: loss 1.323495
+iteration 400 / 1000: loss 1.269307
+iteration 500 / 1000: loss 1.298349
+iteration 600 / 1000: loss 1.315873
+iteration 700 / 1000: loss 1.258897
+iteration 800 / 1000: loss 1.269505
+iteration 900 / 1000: loss 1.169998
+Validation accuracy:  0.516
+--------------------------
++ Train  61 :
+iteration 0 / 1000: loss 1.361187
+iteration 100 / 1000: loss 1.411483
+iteration 200 / 1000: loss 1.292210
+iteration 300 / 1000: loss 1.241592
+iteration 400 / 1000: loss 1.328473
+iteration 500 / 1000: loss 1.265570
+iteration 600 / 1000: loss 1.237027
+iteration 700 / 1000: loss 1.360179
+iteration 800 / 1000: loss 1.253000
+iteration 900 / 1000: loss 1.235635
+Validation accuracy:  0.523
+--------------------------
++ Train  62 :
+iteration 0 / 1000: loss 1.273726
+iteration 100 / 1000: loss 1.270834
+iteration 200 / 1000: loss 1.303014
+iteration 300 / 1000: loss 1.263922
+iteration 400 / 1000: loss 1.305806
+iteration 500 / 1000: loss 1.285979
+iteration 600 / 1000: loss 1.287544
+iteration 700 / 1000: loss 1.240284
+iteration 800 / 1000: loss 1.396506
+iteration 900 / 1000: loss 1.279326
+Validation accuracy:  0.519
+--------------------------
++ Train  63 :
+iteration 0 / 1000: loss 1.142318
+iteration 100 / 1000: loss 1.281726
+iteration 200 / 1000: loss 1.363980
+iteration 300 / 1000: loss 1.422594
+iteration 400 / 1000: loss 1.229707
+iteration 500 / 1000: loss 1.250360
+iteration 600 / 1000: loss 1.258653
+iteration 700 / 1000: loss 1.245150
+iteration 800 / 1000: loss 1.277637
+iteration 900 / 1000: loss 1.307149
+Validation accuracy:  0.527
+--------------------------
++ Train  64 :
+iteration 0 / 1000: loss 1.176207
+iteration 100 / 1000: loss 1.494369
+iteration 200 / 1000: loss 1.415831
+iteration 300 / 1000: loss 1.323696
+iteration 400 / 1000: loss 1.277250
+iteration 500 / 1000: loss 1.256930
+iteration 600 / 1000: loss 1.310846
+iteration 700 / 1000: loss 1.317640
+iteration 800 / 1000: loss 1.243038
+iteration 900 / 1000: loss 1.323525
+Validation accuracy:  0.518
+--------------------------
++ Train  65 :
+iteration 0 / 1000: loss 1.235520
+iteration 100 / 1000: loss 1.236287
+iteration 200 / 1000: loss 1.336838
+iteration 300 / 1000: loss 1.330277
+iteration 400 / 1000: loss 1.256613
+iteration 500 / 1000: loss 1.267558
+iteration 600 / 1000: loss 1.253013
+iteration 700 / 1000: loss 1.363066
+iteration 800 / 1000: loss 1.315949
+iteration 900 / 1000: loss 1.289710
+Validation accuracy:  0.53
+--------------------------
++ Train  66 :
+iteration 0 / 1000: loss 1.265229
+iteration 100 / 1000: loss 1.168677
+iteration 200 / 1000: loss 1.242289
+iteration 300 / 1000: loss 1.235475
+iteration 400 / 1000: loss 1.327105
+iteration 500 / 1000: loss 1.249526
+iteration 600 / 1000: loss 1.434536
+iteration 700 / 1000: loss 1.201551
+iteration 800 / 1000: loss 1.403468
+iteration 900 / 1000: loss 1.252162
+Validation accuracy:  0.528
+--------------------------
++ Train  67 :
+iteration 0 / 1000: loss 1.351016
+iteration 100 / 1000: loss 1.289317
+iteration 200 / 1000: loss 1.257074
+iteration 300 / 1000: loss 1.257852
+iteration 400 / 1000: loss 1.364541
+iteration 500 / 1000: loss 1.210180
+iteration 600 / 1000: loss 1.307685
+iteration 700 / 1000: loss 1.393307
+iteration 800 / 1000: loss 1.201144
+iteration 900 / 1000: loss 1.338125
+Validation accuracy:  0.53
+--------------------------
++ Train  68 :
+iteration 0 / 1000: loss 1.259909
+iteration 100 / 1000: loss 1.117746
+iteration 200 / 1000: loss 1.324477
+iteration 300 / 1000: loss 1.180897
+iteration 400 / 1000: loss 1.261803
+iteration 500 / 1000: loss 1.213954
+iteration 600 / 1000: loss 1.284068
+iteration 700 / 1000: loss 1.257072
+iteration 800 / 1000: loss 1.290707
+iteration 900 / 1000: loss 1.374169
+Validation accuracy:  0.522
+--------------------------
++ Train  69 :
+iteration 0 / 1000: loss 1.284615
+iteration 100 / 1000: loss 1.306119
+iteration 200 / 1000: loss 1.453148
+iteration 300 / 1000: loss 1.392763
+iteration 400 / 1000: loss 1.336785
+iteration 500 / 1000: loss 1.376078
+iteration 600 / 1000: loss 1.311689
+iteration 700 / 1000: loss 1.356230
+iteration 800 / 1000: loss 1.168462
+iteration 900 / 1000: loss 1.412334
+Validation accuracy:  0.523
+--------------------------
++ Train  70 :
+iteration 0 / 1000: loss 1.304275
+iteration 100 / 1000: loss 1.392886
+iteration 200 / 1000: loss 1.320014
+iteration 300 / 1000: loss 1.117363
+iteration 400 / 1000: loss 1.255453
+iteration 500 / 1000: loss 1.293207
+iteration 600 / 1000: loss 1.371814
+iteration 700 / 1000: loss 1.305144
+iteration 800 / 1000: loss 1.189381
+iteration 900 / 1000: loss 1.259587
+Validation accuracy:  0.534
+--------------------------
++ Train  71 :
+iteration 0 / 1000: loss 1.198670
+iteration 100 / 1000: loss 1.356841
+iteration 200 / 1000: loss 1.407183
+iteration 300 / 1000: loss 1.383250
+iteration 400 / 1000: loss 1.316687
+iteration 500 / 1000: loss 1.372737
+iteration 600 / 1000: loss 1.394806
+iteration 700 / 1000: loss 1.181195
+iteration 800 / 1000: loss 1.205348
+iteration 900 / 1000: loss 1.336639
+Validation accuracy:  0.52
+--------------------------
++ Train  72 :
+iteration 0 / 1000: loss 1.318116
+iteration 100 / 1000: loss 1.386697
+iteration 200 / 1000: loss 1.316159
+iteration 300 / 1000: loss 1.249580
+iteration 400 / 1000: loss 1.215456
+iteration 500 / 1000: loss 1.301364
+iteration 600 / 1000: loss 1.374896
+iteration 700 / 1000: loss 1.238001
+iteration 800 / 1000: loss 1.235122
+iteration 900 / 1000: loss 1.279800
+Validation accuracy:  0.522
+--------------------------
++ Train  73 :
+iteration 0 / 1000: loss 1.305339
+iteration 100 / 1000: loss 1.284225
+iteration 200 / 1000: loss 1.180129
+iteration 300 / 1000: loss 1.318043
+iteration 400 / 1000: loss 1.538940
+iteration 500 / 1000: loss 1.217003
+iteration 600 / 1000: loss 1.232896
+iteration 700 / 1000: loss 1.368635
+iteration 800 / 1000: loss 1.246275
+iteration 900 / 1000: loss 1.277203
+Validation accuracy:  0.53
+--------------------------
++ Train  74 :
+iteration 0 / 1000: loss 1.181323
+iteration 100 / 1000: loss 1.290488
+iteration 200 / 1000: loss 1.304413
+iteration 300 / 1000: loss 1.289473
+iteration 400 / 1000: loss 1.107797
+iteration 500 / 1000: loss 1.292915
+iteration 600 / 1000: loss 1.374973
+iteration 700 / 1000: loss 1.342637
+iteration 800 / 1000: loss 1.365416
+iteration 900 / 1000: loss 1.230747
+Validation accuracy:  0.526
+--------------------------
++ Train  75 :
+iteration 0 / 1000: loss 1.304615
+iteration 100 / 1000: loss 1.407763
+iteration 200 / 1000: loss 1.269417
+iteration 300 / 1000: loss 1.320283
+iteration 400 / 1000: loss 1.271694
+iteration 500 / 1000: loss 1.370765
+iteration 600 / 1000: loss 1.260972
+iteration 700 / 1000: loss 1.214131
+iteration 800 / 1000: loss 1.234532
+iteration 900 / 1000: loss 1.221254
+Validation accuracy:  0.519
+--------------------------
++ Train  76 :
+iteration 0 / 1000: loss 1.324589
+iteration 100 / 1000: loss 1.207590
+iteration 200 / 1000: loss 1.250193
+iteration 300 / 1000: loss 1.370954
+iteration 400 / 1000: loss 1.283056
+iteration 500 / 1000: loss 1.302319
+iteration 600 / 1000: loss 1.150916
+iteration 700 / 1000: loss 1.448025
+iteration 800 / 1000: loss 1.262794
+iteration 900 / 1000: loss 1.279277
+Validation accuracy:  0.512
+--------------------------
++ Train  77 :
+iteration 0 / 1000: loss 1.175040
+iteration 100 / 1000: loss 1.292613
+iteration 200 / 1000: loss 1.353724
+iteration 300 / 1000: loss 1.370462
+iteration 400 / 1000: loss 1.316013
+iteration 500 / 1000: loss 1.400241
+iteration 600 / 1000: loss 1.310457
+iteration 700 / 1000: loss 1.228231
+iteration 800 / 1000: loss 1.303484
+iteration 900 / 1000: loss 1.404731
+Validation accuracy:  0.528
+--------------------------
++ Train  78 :
+iteration 0 / 1000: loss 1.220594
+iteration 100 / 1000: loss 1.333491
+iteration 200 / 1000: loss 1.347743
+iteration 300 / 1000: loss 1.282364
+iteration 400 / 1000: loss 1.285733
+iteration 500 / 1000: loss 1.379224
+iteration 600 / 1000: loss 1.219309
+iteration 700 / 1000: loss 1.243183
+iteration 800 / 1000: loss 1.132061
+iteration 900 / 1000: loss 1.192124
+Validation accuracy:  0.529
+--------------------------
++ Train  79 :
+iteration 0 / 1000: loss 1.293964
+iteration 100 / 1000: loss 1.427059
+iteration 200 / 1000: loss 1.234513
+iteration 300 / 1000: loss 1.237976
+iteration 400 / 1000: loss 1.296514
+iteration 500 / 1000: loss 1.291641
+iteration 600 / 1000: loss 1.338164
+iteration 700 / 1000: loss 1.179575
+iteration 800 / 1000: loss 1.222191
+iteration 900 / 1000: loss 1.201690
+Validation accuracy:  0.521
+--------------------------
++ Train  80 :
+iteration 0 / 1000: loss 1.207980
+iteration 100 / 1000: loss 1.433248
+iteration 200 / 1000: loss 1.180198
+iteration 300 / 1000: loss 1.366450
+iteration 400 / 1000: loss 1.270746
+iteration 500 / 1000: loss 1.221201
+iteration 600 / 1000: loss 1.267267
+iteration 700 / 1000: loss 1.417341
+iteration 800 / 1000: loss 1.286589
+iteration 900 / 1000: loss 1.212680
+Validation accuracy:  0.522
+--------------------------
++ Train  81 :
+iteration 0 / 1000: loss 1.354635
+iteration 100 / 1000: loss 1.367023
+iteration 200 / 1000: loss 1.307617
+iteration 300 / 1000: loss 1.313095
+iteration 400 / 1000: loss 1.304949
+iteration 500 / 1000: loss 1.373078
+iteration 600 / 1000: loss 1.314304
+iteration 700 / 1000: loss 1.379243
+iteration 800 / 1000: loss 1.264811
+iteration 900 / 1000: loss 1.441921
+Validation accuracy:  0.526
+--------------------------
++ Train  82 :
+iteration 0 / 1000: loss 1.251469
+iteration 100 / 1000: loss 1.290078
+iteration 200 / 1000: loss 1.290264
+iteration 300 / 1000: loss 1.390058
+iteration 400 / 1000: loss 1.202372
+iteration 500 / 1000: loss 1.280616
+iteration 600 / 1000: loss 1.216967
+iteration 700 / 1000: loss 1.101344
+iteration 800 / 1000: loss 1.339977
+iteration 900 / 1000: loss 1.312411
+Validation accuracy:  0.533
+--------------------------
++ Train  83 :
+iteration 0 / 1000: loss 1.269715
+iteration 100 / 1000: loss 1.250041
+iteration 200 / 1000: loss 1.280314
+iteration 300 / 1000: loss 1.339817
+iteration 400 / 1000: loss 1.320118
+iteration 500 / 1000: loss 1.184522
+iteration 600 / 1000: loss 1.272727
+iteration 700 / 1000: loss 1.354267
+iteration 800 / 1000: loss 1.352732
+iteration 900 / 1000: loss 1.330782
+Validation accuracy:  0.522
+--------------------------
++ Train  84 :
+iteration 0 / 1000: loss 1.275706
+iteration 100 / 1000: loss 1.166047
+iteration 200 / 1000: loss 1.261156
+iteration 300 / 1000: loss 1.340942
+iteration 400 / 1000: loss 1.410748
+iteration 500 / 1000: loss 1.374027
+iteration 600 / 1000: loss 1.177030
+iteration 700 / 1000: loss 1.329386
+iteration 800 / 1000: loss 1.325326
+iteration 900 / 1000: loss 1.345810
+Validation accuracy:  0.517
+--------------------------
++ Train  85 :
+iteration 0 / 1000: loss 1.265526
+iteration 100 / 1000: loss 1.335140
+iteration 200 / 1000: loss 1.308656
+iteration 300 / 1000: loss 1.276662
+iteration 400 / 1000: loss 1.263605
+iteration 500 / 1000: loss 1.231077
+iteration 600 / 1000: loss 1.131143
+iteration 700 / 1000: loss 1.286185
+iteration 800 / 1000: loss 1.273343
+iteration 900 / 1000: loss 1.357009
+Validation accuracy:  0.518
+--------------------------
++ Train  86 :
+iteration 0 / 1000: loss 1.328523
+iteration 100 / 1000: loss 1.299999
+iteration 200 / 1000: loss 1.275794
+iteration 300 / 1000: loss 1.316954
+iteration 400 / 1000: loss 1.352116
+iteration 500 / 1000: loss 1.345739
+iteration 600 / 1000: loss 1.200442
+iteration 700 / 1000: loss 1.228832
+iteration 800 / 1000: loss 1.254241
+iteration 900 / 1000: loss 1.389480
+Validation accuracy:  0.516
+--------------------------
++ Train  87 :
+iteration 0 / 1000: loss 1.302706
+iteration 100 / 1000: loss 1.302878
+iteration 200 / 1000: loss 1.286987
+iteration 300 / 1000: loss 1.293342
+iteration 400 / 1000: loss 1.313892
+iteration 500 / 1000: loss 1.388854
+iteration 600 / 1000: loss 1.322882
+iteration 700 / 1000: loss 1.269936
+iteration 800 / 1000: loss 1.241015
+iteration 900 / 1000: loss 1.231823
+Validation accuracy:  0.525
+--------------------------
++ Train  88 :
+iteration 0 / 1000: loss 1.384613
+iteration 100 / 1000: loss 1.284800
+iteration 200 / 1000: loss 1.375172
+iteration 300 / 1000: loss 1.248520
+iteration 400 / 1000: loss 1.241415
+iteration 500 / 1000: loss 1.319671
+iteration 600 / 1000: loss 1.331139
+iteration 700 / 1000: loss 1.405038
+iteration 800 / 1000: loss 1.291857
+iteration 900 / 1000: loss 1.166401
+Validation accuracy:  0.524
+--------------------------
++ Train  89 :
+iteration 0 / 1000: loss 1.195095
+iteration 100 / 1000: loss 1.275727
+iteration 200 / 1000: loss 1.256973
+iteration 300 / 1000: loss 1.307309
+iteration 400 / 1000: loss 1.185072
+iteration 500 / 1000: loss 1.292569
+iteration 600 / 1000: loss 1.332534
+iteration 700 / 1000: loss 1.229400
+iteration 800 / 1000: loss 1.367232
+iteration 900 / 1000: loss 1.328745
+Validation accuracy:  0.521
+--------------------------
++ Train  90 :
+iteration 0 / 1000: loss 1.365249
+iteration 100 / 1000: loss 1.355160
+iteration 200 / 1000: loss 1.274171
+iteration 300 / 1000: loss 1.204541
+iteration 400 / 1000: loss 1.344539
+iteration 500 / 1000: loss 1.234467
+iteration 600 / 1000: loss 1.347074
+iteration 700 / 1000: loss 1.228971
+iteration 800 / 1000: loss 1.230303
+iteration 900 / 1000: loss 1.262491
+Validation accuracy:  0.524
+--------------------------
++ Train  91 :
+iteration 0 / 1000: loss 1.320282
+iteration 100 / 1000: loss 1.287742
+iteration 200 / 1000: loss 1.309262
+iteration 300 / 1000: loss 1.284314
+iteration 400 / 1000: loss 1.240655
+iteration 500 / 1000: loss 1.419498
+iteration 600 / 1000: loss 1.277779
+iteration 700 / 1000: loss 1.273584
+iteration 800 / 1000: loss 1.362292
+iteration 900 / 1000: loss 1.420742
+Validation accuracy:  0.529
+--------------------------
++ Train  92 :
+iteration 0 / 1000: loss 1.324493
+iteration 100 / 1000: loss 1.377082
+iteration 200 / 1000: loss 1.334512
+iteration 300 / 1000: loss 1.282029
+iteration 400 / 1000: loss 1.229499
+iteration 500 / 1000: loss 1.261524
+iteration 600 / 1000: loss 1.300981
+iteration 700 / 1000: loss 1.214731
+iteration 800 / 1000: loss 1.286487
+iteration 900 / 1000: loss 1.272248
+Validation accuracy:  0.524
+--------------------------
++ Train  93 :
+iteration 0 / 1000: loss 1.399430
+iteration 100 / 1000: loss 1.324885
+iteration 200 / 1000: loss 1.289155
+iteration 300 / 1000: loss 1.333648
+iteration 400 / 1000: loss 1.277377
+iteration 500 / 1000: loss 1.167520
+iteration 600 / 1000: loss 1.193672
+iteration 700 / 1000: loss 1.321648
+iteration 800 / 1000: loss 1.268241
+iteration 900 / 1000: loss 1.260703
+Validation accuracy:  0.521
+--------------------------
++ Train  94 :
+iteration 0 / 1000: loss 1.336883
+iteration 100 / 1000: loss 1.313694
+iteration 200 / 1000: loss 1.247396
+iteration 300 / 1000: loss 1.347677
+iteration 400 / 1000: loss 1.334242
+iteration 500 / 1000: loss 1.211421
+iteration 600 / 1000: loss 1.282450
+iteration 700 / 1000: loss 1.228921
+iteration 800 / 1000: loss 1.222435
+iteration 900 / 1000: loss 1.329553
+Validation accuracy:  0.53
+--------------------------
++ Train  95 :
+iteration 0 / 1000: loss 1.233209
+iteration 100 / 1000: loss 1.202406
+iteration 200 / 1000: loss 1.278289
+iteration 300 / 1000: loss 1.207942
+iteration 400 / 1000: loss 1.244215
+iteration 500 / 1000: loss 1.391265
+iteration 600 / 1000: loss 1.321360
+iteration 700 / 1000: loss 1.296544
+iteration 800 / 1000: loss 1.244317
+iteration 900 / 1000: loss 1.378129
+Validation accuracy:  0.524
+--------------------------
++ Train  96 :
+iteration 0 / 1000: loss 1.269517
+iteration 100 / 1000: loss 1.312564
+iteration 200 / 1000: loss 1.282240
+iteration 300 / 1000: loss 1.323823
+iteration 400 / 1000: loss 1.340472
+iteration 500 / 1000: loss 1.272134
+iteration 600 / 1000: loss 1.383410
+iteration 700 / 1000: loss 1.361745
+iteration 800 / 1000: loss 1.256826
+iteration 900 / 1000: loss 1.327155
+Validation accuracy:  0.525
+--------------------------
++ Train  97 :
+iteration 0 / 1000: loss 1.316728
+iteration 100 / 1000: loss 1.264271
+iteration 200 / 1000: loss 1.404403
+iteration 300 / 1000: loss 1.364988
+iteration 400 / 1000: loss 1.212252
+iteration 500 / 1000: loss 1.319559
+iteration 600 / 1000: loss 1.217811
+iteration 700 / 1000: loss 1.281858
+iteration 800 / 1000: loss 1.216511
+iteration 900 / 1000: loss 1.244847
+Validation accuracy:  0.525
+--------------------------
++ Train  98 :
+iteration 0 / 1000: loss 1.209213
+iteration 100 / 1000: loss 1.313170
+iteration 200 / 1000: loss 1.328530
+iteration 300 / 1000: loss 1.295574
+iteration 400 / 1000: loss 1.363620
+iteration 500 / 1000: loss 1.263542
+iteration 600 / 1000: loss 1.345312
+iteration 700 / 1000: loss 1.227567
+iteration 800 / 1000: loss 1.298193
+iteration 900 / 1000: loss 1.244592
+Validation accuracy:  0.521
+--------------------------
++ Train  99 :
+iteration 0 / 1000: loss 1.175244
+iteration 100 / 1000: loss 1.328400
+iteration 200 / 1000: loss 1.378057
+iteration 300 / 1000: loss 1.258058
+iteration 400 / 1000: loss 1.391789
+iteration 500 / 1000: loss 1.312614
+iteration 600 / 1000: loss 1.147665
+iteration 700 / 1000: loss 1.294253
+iteration 800 / 1000: loss 1.224302
+iteration 900 / 1000: loss 1.195423
+Validation accuracy:  0.521
