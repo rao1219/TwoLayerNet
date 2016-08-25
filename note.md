@@ -1,36 +1,36 @@
 # TwoLayerNet
 ---
-[ÌâÄ¿](http://cs231n.github.io/assignments2016/assignment1/)
+[é¢˜ç›®](http://cs231n.github.io/assignments2016/assignment1/)
 
-[ÎÒµÄ´úÂë](https://github.com/rao1219/TwoLayerNet)
+[æˆ‘çš„ä»£ç ](https://github.com/rao1219/TwoLayerNet)
 
 ---
-# °ü½á¹¹
+# åŒ…ç»“æ„
 + TwoLayerNet
     + cs231n
         + classifiers
-            + neural_net.py: ÎÒµÄÍøÂç 
-        + datasets£º cifar-10-batches-py
-    + setup.py: ÍøÂç³õÊ¼»¯
-    + testnet.py: Ç°ÏòºÍ·´Ïò´«²¥²ÎÊı¼ÆËã
-    + train.py: ÑµÁ·¹ı³Ì
-    + tune.py: µ÷ÊÔ²ÎÊı
-    + test.py: ÔÚ²âÊÔ¼¯ÉÏ¼ìÑé×¼È·ÂÊ
+            + neural_net.py: æˆ‘çš„ç½‘ç»œ 
+        + datasetsï¼š cifar-10-batches-py
+    + setup.py: ç½‘ç»œåˆå§‹åŒ–
+    + testnet.py: å‰å‘å’Œåå‘ä¼ æ’­å‚æ•°è®¡ç®—
+    + train.py: è®­ç»ƒè¿‡ç¨‹
+    + tune.py: è°ƒè¯•å‚æ•°
+    + test.py: åœ¨æµ‹è¯•é›†ä¸Šæ£€éªŒå‡†ç¡®ç‡
      
 ---
-# ÎÒµÄÍøÂç
+# æˆ‘çš„ç½‘ç»œ
 ![d](img/network.png)
 
-Á½²ãÈ«Á¬½ÓÍøÂç
-+ ÊäÈë²ãNÎ¬£¬Òşº¬²ãHÎ¬£¬Êä³öCÀà
+ä¸¤å±‚å…¨è¿æ¥ç½‘ç»œ
++ è¾“å…¥å±‚Nç»´ï¼Œéšå«å±‚Hç»´ï¼Œè¾“å‡ºCç±»
 + loss function: softmax
-+ ½á¹¹£º
++ ç»“æ„ï¼š
     +  **input - fully connected layer - ReLU - fully connected layer - softmax**
-+ output: Ã¿¸öclassµÄµÃ·Ö
++ output: æ¯ä¸ªclassçš„å¾—åˆ†
 
 ---
 
-# ÑµÁ·¹ı³Ì
+# è®­ç»ƒè¿‡ç¨‹
 ### 0. setup
 
 ```python
@@ -94,7 +94,7 @@ print
 print 'Difference between your scores and correct scores:'
 print np.sum(np.abs(scores - correct_scores))
 ```
-Êä³ö½á¹û£º
+è¾“å‡ºç»“æœï¼š
 ```
 Your scores:
 [[-0.81233741 -1.27654624 -0.70335995]
@@ -117,7 +117,14 @@ Difference between your scores and correct scores:
 
 + #### **compute loss:**
 
-ÆÀ¹À£º
+```python
+rows = np.sum(np.exp(layer3),axis=1)
+layer4 = np.sum(-layer3[range(N),y]+np.log(rows)) / N
+    
+loss = layer4 + 0.5 * reg * (np.sum(W1*W1) + np.sum(W2*W2)) 
+```
+
+è¯„ä¼°ï¼š
 ```python
 loss, _ = net.loss(X, y, reg=0.1)
 correct_loss = 1.30378789133
@@ -126,7 +133,7 @@ correct_loss = 1.30378789133
 print 'Difference between your loss and correct loss:'
 print np.sum(np.abs(loss - correct_loss))
 ```
-Êä³ö½á¹û:
+è¾“å‡ºç»“æœ:
 
 ```
 Difference between your loss and correct loss:
@@ -134,7 +141,7 @@ Difference between your loss and correct loss:
 ```
 
 ### 2. Backward pass
-¹ı³Ì£º
+è¿‡ç¨‹ï¼š
 ```python
 dlayer4 = 1.0
 
@@ -168,7 +175,7 @@ grads['b2'] = db2
 
 ```
 
-ÆÀ¹À:
+è¯„ä¼°:
 ```python
 from cs231n.gradient_check import eval_numerical_gradient
 
@@ -332,7 +339,7 @@ plt.show()
 ```
 training loss:  0.0171496079387
 
-![Í¼Æ¬](img/loss_history.png)
+![å›¾ç‰‡](img/loss_history.png)
 
 ### 4. Load data
 ```python
@@ -410,7 +417,7 @@ val_acc = (net.predict(X_val) == y_val).mean()
 print 'Validation accuracy: ', val_acc
 
 ```
-½á¹û£º
+ç»“æœï¼š
 ```
 iteration 0 / 1000: loss 2.302954
 iteration 100 / 1000: loss 2.302550
@@ -488,7 +495,7 @@ for learning_rate in learning_rates:
             best_acc = val_acc
 
 ```
-Êä³ö£º
+è¾“å‡ºï¼š
 ```
 Regularization : 0.01 Learning : 0.000316227766017
 Acc : 0.466
