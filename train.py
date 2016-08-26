@@ -24,10 +24,18 @@ def init_toy_data():
 
 
 net = init_toy_model()
-X, y = init_toy_data()
+X,y = init_toy_data()
+stats = net.train(X, y, X, y,
+            learning_rate=1e-1, reg=1e-5,
+            num_iters=100, verbose=False)
 
-stats = net.train(X,y,X,y, learning_rate=1e-1,reg=1e-5,num_iters=100,verbose=False)
+print 'Final training loss: ', stats['loss_history'][-1]
 
-print 'Final training loss:', stats['loss_history'][-1]
+# plot the loss history
+plt.plot(stats['loss_history'])
+plt.xlabel('iteration')
+plt.ylabel('training loss')
+plt.title('Training Loss history')
+plt.show()
 
 
