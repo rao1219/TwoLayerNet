@@ -2,6 +2,8 @@
 # coding=utf-8
 import numpy as np
 
+# f = 1 / 1 + exp(-wx+b)
+
 class backward_f(object):
     def __init__(self,w,x,b):
         self.params = {}
