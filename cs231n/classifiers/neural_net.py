@@ -100,8 +100,11 @@ class TwoLayerNet(object):
     #############################################################################
     pass
     rows = np.sum(np.exp(layer3),axis=1)
+    print 'layer3:',layer3,'\n',layer3.shape
+    print '\n***********',layer3[range(N),y]
     layer4 = np.sum(-layer3[range(N),y]+np.log(rows)) / N
-    
+    print 'layer4', layer4
+
     loss = layer4 + 0.5 * reg * (np.sum(W1*W1) + np.sum(W2*W2)) 
 
 
