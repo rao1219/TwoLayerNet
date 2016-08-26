@@ -100,8 +100,8 @@ class TwoLayerNet(object):
     #############################################################################
     pass
     rows = np.sum(np.exp(layer3),axis=1)
-    print 'layer3:',layer3,'\n',layer3.shape
-    print '\n***********',layer3[range(N),y]
+#    print 'layer3:',layer3,'\n',layer3.shape
+#    print '\n***********',layer3[range(N),y]
     layer4 = np.sum(-layer3[range(N),y]+np.log(rows)) / N
     print 'layer4', layer4
 
@@ -195,10 +195,15 @@ class TwoLayerNet(object):
       # them in X_batch and y_batch respectively.                             #
       #########################################################################
       pass
+      print 'num_train:',num_train
       indices = np.random.choice(num_train,batch_size)
+      print 'indices',indices.shape
       X_batch = X[indices]
       y_batch = y[indices]
 
+      print 'x_batch',X_batch.shape
+      print 'y_batch',y_batch.shape
+      print 'X',X.shape
       #########################################################################
       #                             END OF YOUR CODE                          #
       #########################################################################
